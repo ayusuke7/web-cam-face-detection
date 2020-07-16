@@ -1,8 +1,6 @@
 # WebCamFaceDetection
 WebCam em Java com OpenCV - FaceDetection &amp; EyesDetection
 
-Tutorial de Construção : http://alexandrehenrique.esy.es/dicas/webcam-em-java-utilizando-opencv/
-
 Projeto desenvolvido com a interface OpenCV para Java.
 
 Requerimentos:
